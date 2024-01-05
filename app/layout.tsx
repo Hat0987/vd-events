@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'VD Events',
   description: 'VD Events is a platform for event management.',
   icons: {
-    icon: '/assets/images/logo.svg'
+    icon: '/assets/images/logo.png'
   }
 }
 
