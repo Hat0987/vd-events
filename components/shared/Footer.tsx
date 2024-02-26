@@ -14,7 +14,7 @@ const Footer = () => {
           />
         </Link>
 
-        <p>2023 Voie Digital. All Rights reserved.</p>
+        <p>2024 © Voie Digital. All Rights reserved.</p>
       </div>
     </footer>
   )

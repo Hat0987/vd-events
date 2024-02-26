@@ -19,10 +19,11 @@ module.exports = withUt({
     },
     extend: {
       colors: {
+        //This is How To Change Button Colors
         primary: {
           500: '#624CF5',
           50: ' #F6F8FD',
-          DEFAULT: '#624CF5',
+          DEFAULT: '#094b43',
           foreground: 'hsl(var(--primary-foreground))',
         },
         coral: {
